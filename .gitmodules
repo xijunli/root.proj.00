@@ -4,3 +4,9 @@
 [submodule "child.proj.02"]
 	path = child.proj.02
 	url = https://github.com/xijunli/child.proj.02.git
+[submodule "test-as-script"]
+	path = test-as-script
+	url = https://github.com/xijunli/test-as-script.git
+[submodule "test-as-pipeline"]
+	path = test-as-pipeline
+	url = https://github.com/xijunli/test-as-pipeline.git
